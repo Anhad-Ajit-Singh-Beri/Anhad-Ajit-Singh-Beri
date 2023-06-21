@@ -1,11 +1,11 @@
-## </Anhad Ajit Singh Beri>
+# </Anhad Ajit Singh Beri>
 
 ##### I am a 16 year old, self-taught programmer from India.
 ##### I'm passionate about leveraging technology to make a positive impact and create innovative solutions that address real-world challenges.
 
 ##### Beyond coding, I enjoy UI/UX Design, Running and Reading. These activities provide me with a well-rounded perspective, fuel my creativity, and inspire fresh ideas in my coding projects.
 
-### Skills
+## Skills
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
@@ -42,7 +42,7 @@
 ![VS COde](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24.svg?style=for-the-badge&logo=XAMPP&logoColor=white)
 
-
+## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anhad-Ajit-Singh-Beri&layout=donut&theme=radical)](https://github.com/Anhad-Ajit-Singh-Beri/github-readme-stats)
 ![Anhad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anhad-Ajit-Singh-Beri&show_icons=true&theme=radical)
 
