@@ -30,7 +30,6 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Codechef](https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
 ![Codepen](https://img.shields.io/badge/CodePen-000000.svg?style=for-the-badge&logo=CodePen&logoColor=white)
-![Code Sandbox](https://img.shields.io/badge/CodeSandbox-151515.svg?style=for-the-badge&logo=CodeSandbox&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black)
 ![GIT](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
@@ -44,8 +43,9 @@
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24.svg?style=for-the-badge&logo=XAMPP&logoColor=white)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anhad-Ajit-Singh-Beri&layout=donut&theme=radical)](https://github.com/Anhad-Ajit-Singh-Beri/github-readme-stats)
+![Anhad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anhad-Ajit-Singh-Beri&show_icons=true&theme=radical)
 
-[![Anhad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anhad Ajit Sign Beri)](https://github.com/Anhad Ajit Singh Beri/github-readme-stats)
 
 <!--
 - 🔭 I’m currently working on ...
