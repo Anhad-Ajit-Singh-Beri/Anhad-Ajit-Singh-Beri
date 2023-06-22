@@ -1,4 +1,8 @@
-![</Anhad Ajit Singh Beri>>](https://github.com/Anhad-Ajit-Singh-Beri/Anhad-Ajit-Singh-Beri/assets/129276705/e2ec48ed-fd46-4be1-8c1f-431457daea5e)
+<br>
+<div id="header" align="center">
+  <img src="https://github.com/Anhad-Ajit-Singh-Beri/Anhad-Ajit-Singh-Beri/assets/129276705/e2ec48ed-fd46-4be1-8c1f-431457daea5e" width="700" />
+</div>
+<br>
 
 ##### I am a 16 year old, self-taught programmer from India.
 ##### I'm passionate about leveraging technology to make a positive impact and create innovative solutions that address real-world challenges.
